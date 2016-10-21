@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\bin\Release\Services.dll.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\bin\Release\Services.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\bin\Release\Services.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\bin\Release\Domain.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\bin\Release\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\bin\Release\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\bin\Release\Domain.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\bin\Release\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\bin\Release\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\obj\Release\Services.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\obj\Release\Services.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Services\obj\Release\Services.pdb

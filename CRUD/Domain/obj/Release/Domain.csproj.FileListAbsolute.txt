@@ -1,0 +1,4 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Domain\bin\Release\Domain.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Domain\bin\Release\Domain.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Domain\obj\Release\Domain.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\Domain\obj\Release\Domain.pdb

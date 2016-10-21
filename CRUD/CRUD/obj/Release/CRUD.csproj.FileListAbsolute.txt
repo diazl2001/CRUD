@@ -1,0 +1,17 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\CRUD.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\CRUD.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\CRUD.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\Domain.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\EntityFramework.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\EntityFramework.SqlServer.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\Services.dll
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\Domain.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\Services.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\EntityFramework.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\bin\Release\EntityFramework.SqlServer.xml
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Release\CRUD.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Release\CRUD.Form1.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Release\CRUD.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Release\CRUD.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Release\CRUD.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\CRUD\CRUD\obj\Release\CRUD.pdb
